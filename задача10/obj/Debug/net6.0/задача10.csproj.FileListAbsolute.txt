@@ -1,0 +1,15 @@
+C:\Dz2\задача10\bin\Debug\net6.0\задача10.exe
+C:\Dz2\задача10\bin\Debug\net6.0\задача10.deps.json
+C:\Dz2\задача10\bin\Debug\net6.0\задача10.runtimeconfig.json
+C:\Dz2\задача10\bin\Debug\net6.0\задача10.dll
+C:\Dz2\задача10\bin\Debug\net6.0\задача10.pdb
+C:\Dz2\задача10\obj\Debug\net6.0\задача10.csproj.AssemblyReference.cache
+C:\Dz2\задача10\obj\Debug\net6.0\задача10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dz2\задача10\obj\Debug\net6.0\задача10.AssemblyInfoInputs.cache
+C:\Dz2\задача10\obj\Debug\net6.0\задача10.AssemblyInfo.cs
+C:\Dz2\задача10\obj\Debug\net6.0\задача10.csproj.CoreCompileInputs.cache
+C:\Dz2\задача10\obj\Debug\net6.0\задача10.dll
+C:\Dz2\задача10\obj\Debug\net6.0\refint\задача10.dll
+C:\Dz2\задача10\obj\Debug\net6.0\задача10.pdb
+C:\Dz2\задача10\obj\Debug\net6.0\задача10.genruntimeconfig.cache
+C:\Dz2\задача10\obj\Debug\net6.0\ref\задача10.dll
